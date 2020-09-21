@@ -1,6 +1,8 @@
 # DashboardNPS
 Dashbord analysing the link between customer satisfaction and turnover in R shiny
 
+A copy of this dashboard has also been carried out with Tableau software.
+
 
 ## Context
 The objective of this dashboard is to study the correlation between the satisfaction of a shop's customers and the turnover they generate. Customer satisfaction is studied through the variable of the NPS (Net Promoter Score), calculated as follows: NPS = % promoter customers - % detractors customers
