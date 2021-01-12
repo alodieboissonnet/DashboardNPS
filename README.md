@@ -5,12 +5,12 @@ A copy of this dashboard has also been carried out with Tableau software.
 
 
 ## Context
-The objective of this dashboard is to study the correlation between the satisfaction of a shop's customers and the turnover they generate. Customer satisfaction is studied through the variable of the NPS (Net Promoter Score), calculated as follows: NPS = % promoter customers - % detractors customers
+The objective of this dashboard is to study the correlation between the satisfaction of a restaurant's customers and the turnover they generate. Customer satisfaction is studied through the variable of the NPS (Net Promoter Score), calculated as follows: NPS = % promoter customers - % detractors customers
 A promoter client is a client who has given a recommendation rating of 9 or 10, while a detractor client has given a recommendation rating of 6 or less. Customers are divided into three research batches, and responded to five different types of questionnaires.
 
 This dashboard brings together different graphs to visualise the link between customer satisfaction and turnover.
 
-All data used in this dashboard was randomly generated and does not represent any particular shop.
+All data used in this dashboard was randomly generated and does not represent any particular restaurant.
 
 ## Dashboard description
 The dashboard is divided into two tabs. The first, the home tab, provides a general overview of the correlation between NPS and CA, while the second details this correlation for each study batch. (see pictures of the general overview)
